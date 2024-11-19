@@ -23,3 +23,12 @@ We are allowing project on following matter build.
 - generate AI
 
   Chat client
+
+
+--------------
+
+crm
+paass 
+saass
+
+-------------
