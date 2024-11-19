@@ -67,15 +67,16 @@ With Automator
 --------------
 
 ### Whiteboard app design
-- It's how we get the design template - image
+- It's how we get the design template
+- Image
 - css form
 - css buttons
 - CSS icons
--  code routing the icons or functionality buttons
+- code routing the icons or functionality buttons
 -  Build database
 -  Connect database forms
--  link button with code functions
-
+- link button with code functions
+- operate map area area apps
 
 ----------------
 ----------------
