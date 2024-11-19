@@ -32,3 +32,13 @@ We are allowing project on following matter build.
 - saass
 
 -------------
+
+
+- we practice built for local post project and focus on local host demands
+
+- Reason is we built for trigger port routing to the client packages
+- and opposite to better control them remote from where we run the build
+- We can also use it to run them on local machines
+- We can use them to reconfigure builds
+- Apply better application routines
+- Having better self security
