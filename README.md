@@ -61,6 +61,19 @@ With Automator
 --------------
 
 ### Whiteboard app design
+- It's how we get the design template - image
+- css form
+- css buttons
+- CSS icons
+-  code routing the icons or functionality buttons
+-  Build database
+-  Connect database forms
+-  link button with code functions
+
+
+----------------
+----------------
+------------------
 
 - we are on the whiteboard interface design
 - We put down the sign on whiteboard
