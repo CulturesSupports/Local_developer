@@ -42,3 +42,18 @@ We are allowing project on following matter build.
 - We can use them to reconfigure builds
 - Apply better application routines
 - Having better self security
+
+
+--------------
+
+we configure also up instances and set the Romans for logic application, designs
+
+- we are on the whiteboard interface design
+- We put down the sign on whiteboard
+- We included in the app frame
+- We select the natural fitting phone template
+- with developer testing in combination with database apps
+- we can figure custom coding
+- Making God fit separately functions
+- We are making server less local host bills
+  
