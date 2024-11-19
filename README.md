@@ -34,8 +34,14 @@ With Automator
 - Llama
 - Llm large language models
 - generate AI
+- track client
+- Chat client
+- music application
+- Api
+- Blockchain voting app
+- Blockchain
+- Gaming entrance
 
-  Chat client
 
 
 --------------
