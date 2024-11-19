@@ -60,7 +60,7 @@ With Automator
 
 --------------
 
-# Whiteboard app design
+### Whiteboard app design
 
 - we are on the whiteboard interface design
 - We put down the sign on whiteboard
