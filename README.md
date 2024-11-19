@@ -17,6 +17,17 @@ And pipeline
 With Automator 
 
 
+### programming languages
+- C++
+- python
+- php
+- JavaScript
+- flutter
+- go language
+- kotlin
+
+- solidity for blockchain application
+
 ### We are allowing project on following matter build.
 
 - Ollama
