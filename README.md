@@ -28,8 +28,9 @@ We are allowing project on following matter build.
 --------------
 
 - crm
-- paass 
-- saass
+- paas 
+- saas
+- laas
 
 -------------
 
