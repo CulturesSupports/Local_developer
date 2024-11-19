@@ -1,17 +1,23 @@
-Sake# Local_developer
-Personal internal repository Where Ole Writing Code Path
+## Local_developer
+
+- Personal internal Repository 
+Where Ole Writing Code Path
 
 
 
-what is building?
+What is Building?
 
-Ole is building data sets
-And pipeline by ongoing
-Project skills without painting
-unpresant events or developer crash
+- Ole is Building Datasets
+And pipeline
+- Evaluations of Skill Sets
+- Evaluation of Demands
+- Making Query Search
+- Making Sql Search
+- Running Build Automation
+With Automator 
 
 
-We are allowing project on following matter build.
+### We are allowing project on following matter build.
 
 - Ollama
 - Llama
