@@ -34,7 +34,7 @@ We are allowing project on following matter build.
 -------------
 
 
-- we practice built for local post project and focus on local host demands
+- we practice built for local host project and focus on local host demands
 
 - Reason is we built for trigger port routing to the client packages
 - and opposite to better control them remote from where we run the build
