@@ -1,4 +1,4 @@
-# Local_developer
+Sake# Local_developer
 Personal internal repository Where Ole Writing Code Path
 
 
@@ -46,7 +46,7 @@ We are allowing project on following matter build.
 
 --------------
 
-we configure also up instances and set the Romans for logic application, designs
+# we configure also up instances and set the Routines for logic application, designs
 
 - we are on the whiteboard interface design
 - We put down the sign on whiteboard
