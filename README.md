@@ -33,10 +33,6 @@ With Automator
 - Ollama
 - Llama
 - Llm large language models
-- C++
-- Python
-- php
-- JavaScript
 - generate AI
 
   Chat client
