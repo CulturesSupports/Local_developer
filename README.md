@@ -60,7 +60,7 @@ With Automator
 
 --------------
 
-### we configure also up instances and set the Routines for logic application, designs
+# Whiteboard app design
 
 - we are on the whiteboard interface design
 - We put down the sign on whiteboard
@@ -69,5 +69,5 @@ With Automator
 - with developer testing in combination with database apps
 - we can figure custom coding
 - Making God fit separately functions
-- We are making server less local host bills
+- We are making server less local host builds 
   
